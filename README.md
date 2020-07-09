@@ -1,4 +1,4 @@
-![Rick and Morty banner](https://github.com/davidkayce/davidkayce/raw/main/banner.png)
+![Rick and Morty banner](https://github.com/davidkayce/davidkayce/blob/master/banner.jpg)
 
 # David Ojimba 🚀😏
 
