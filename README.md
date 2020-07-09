@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**davidkayce/davidkayce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### David Ojimba 🚀😏
 
-Here are some ideas to get you started:
+Hi, I'm David — a self taught web developer. I primarily write frontend code but I do backend stuff too. I try to do interesting stuff with my time here and impact as many people as I can. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about
+- New technologies (I love learning new tech concepts and I dabble a lot in upcoming tech)
+- Unorthodox/Interesting ways of applying technology and tech concepts
+
+## 🌱 I’m currently learning
+I am currently exploring WebAssembly (using AssemblyScript) and distributed computing. If you have something interesting and need some help, be sure to reach out. i would be glad to help as much as I can.
+
+## 🤔 I’m looking for help with
+- I am looking for oppportunities to teach
+- 
+
+## 📫 How to reach me
+- Twitter: https://twitter.com/davekayce
+
