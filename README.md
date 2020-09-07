@@ -9,7 +9,7 @@ I'm a self taught web developer. I primarily write frontend code but I do backen
 - Unorthodox/Interesting ways of applying technology and tech concepts
 
 ### 🌱 I’m currently learning
-I am currently exploring WebAssembly (using AssemblyScript) and distributed computing. If you have something interesting and need some help, be sure to reach out. i would be glad to help as much as I can.
+I am currently exploring WebAssembly (using AssemblyScript) a little Rust and ZigLang for systems programming, clean architecture and distributed computing. If you have something interesting and need some help, be sure to reach out. i would be glad to help as much as I can.
 
 ### 🤔 I’m looking for help with
 - I am looking for oppportunities to teach
