@@ -2,17 +2,11 @@
 
 ![Rick and Morty banner](https://github.com/davidkayce/davidkayce/blob/master/banner.jpg)
 
-I'm a self taught web developer. I primarily write frontend code but I do backend stuff too. I try to do interesting stuff with my time here and impact as many people as I can. 
+I'm a self taught web developer. I primarily write frontend code but I do backend stuff too. I try to do interesting stuff with my time here and learn from as many people as I can. 
 
 ### 💬 Ask me about
 - New technologies (I love learning new tech concepts and I dabble a lot in upcoming tech)
 - Unorthodox/Interesting ways of applying technology and tech concepts
-
-### 🌱 I’m currently learning
-I am currently exploring WebAssembly (using AssemblyScript) a little Rust and ZigLang for systems programming, clean architecture and distributed computing. If you have something interesting and need some help, be sure to reach out. i would be glad to help as much as I can.
-
-### 🤔 I’m looking for help with
-- I am looking for oppportunities to teach
 
 ### Languages and Tools:
 
