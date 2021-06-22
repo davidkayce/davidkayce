@@ -1,7 +1,5 @@
 # Hi, I'm David 👋🏾
 
-![Rick and Morty banner](https://github.com/davidkayce/davidkayce/blob/master/banner.jpg)
-
 I'm a self taught web developer. I primarily write frontend code but I do backend stuff too. I try to do interesting stuff with my time here and learn from as many people as I can. 
 
 ### 💬 Ask me about
